@@ -15,7 +15,7 @@ Setup is similar to our todo app. You must:
 
 - Edit the back end route to grab the recipes from the database and render them to the page.
 
-The `forEach` loop written for you in `index.ejs` should display the recipes. Reload the page to confirm this works.
+The `forEach` loop written for you in `recipes.ejs` should display the recipes. Reload the page to confirm this works.
 
 ### Step 2: Adding About and Contact Pages
 
